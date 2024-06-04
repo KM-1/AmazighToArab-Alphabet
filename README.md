@@ -36,4 +36,4 @@ Z / Ẓ - ز
 
 
 --------------------------------------------------------------
-##### Forked from HMBD-V1 and customized by k.muqran at CRLCA
+##### Forked from HMBD-V1 and customized by k.muqran 
